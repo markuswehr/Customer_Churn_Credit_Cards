@@ -1,0 +1,3 @@
+#!/Users/markuswehr/Documents/Github/Customer_Churn_Credit_Cards/customer-churn-env/bin/python
+from numba.pycc import main
+main()
