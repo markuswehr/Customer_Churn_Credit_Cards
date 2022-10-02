@@ -1,3 +1,10 @@
+'''
+Module to store constant variables in a central place
+
+author: Markus Wehr
+date: 2022-10-02
+'''
+
 # Path to input data
 DATA_PATH = './data/bank_data.csv'
 
