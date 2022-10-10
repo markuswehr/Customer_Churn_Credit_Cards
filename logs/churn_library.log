@@ -1,0 +1,6 @@
+INFO     root:churn_script_logging_and_tests.py:35 SUCCESS: Testing import_data - File found
+INFO     root:churn_script_logging_and_tests.py:62 SUCCESS: Testing perform_eda - Found all required columns in dataframe
+INFO     root:churn_script_logging_and_tests.py:81 SUCCESS: Testing perform_eda - Saved all images to "./images/eda" directory
+INFO     root:churn_script_logging_and_tests.py:106 SUCCESS: Testing econder_helper - Added mean churn rate per categorical column
+INFO     root:churn_script_logging_and_tests.py:119 SUCCESS: Testing perform_feature_engineering - Created train and test set
+INFO     root:churn_script_logging_and_tests.py:177 SUCCESS: Testing train_models -                     Models trained and saved in "./models"; Results saved in "./images/results"
